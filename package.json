@@ -1,0 +1,9 @@
+{
+  "name": "ArduinoPlayground_J5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^0.12.0"
+  }
+}
